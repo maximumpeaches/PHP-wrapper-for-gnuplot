@@ -1,5 +1,5 @@
 # PHP-wrapper-for-gnuplot
-Example output:
+## Example output
 ![gnuplot 3d graph of molecular motion](http://i.imgur.com/8g2gSft.gif "Example output")
 ## About
 To use this file you create an object of a certain class depending on what kind of PNG or GIF you want to output.
