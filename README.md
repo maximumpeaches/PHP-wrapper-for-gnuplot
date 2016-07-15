@@ -2,7 +2,7 @@
 ## Example output
 ![gnuplot 3d graph of molecular motion](http://i.imgur.com/8g2gSft.gif "Example output")
 ## About
-To use this file you create an object of a certain class depending on what kind of PNG or GIF you want to output.
+To use this project you create an object of a certain class depending on what kind of PNG or GIF you want to output, as done in demo_usage.php.
 The class of your object could be twodpng, twodgif, threedpng or threedgif.
 Then you use the provided functions to set parameters determining what your image output will look like,
 for instance the data points that will be plotted and the title of the graph to be displayed.
